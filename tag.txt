@@ -1,4 +1,4 @@
 category: 限选
 module: 智能检测
-semester: 第三学年秋季
+semester: 第三学年秋季 / 第四学年秋季
 name: 模式识别
