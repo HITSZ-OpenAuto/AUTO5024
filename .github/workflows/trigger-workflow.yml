@@ -1,4 +1,4 @@
-name: Trigger Workflow in hoa.moe
+name: Trigger Workflow in hoa-moe
 
 on:
   push:
@@ -9,7 +9,7 @@ jobs:
   trigger:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger workflow in hoa.moe
+      - name: Trigger workflow in hoa-moe
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: |
