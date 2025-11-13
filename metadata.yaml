@@ -1,0 +1,90 @@
+ID: "AUTO5024"
+SimilarID: []
+Name: "模式识别"
+CourseProperty:
+  Major:
+    - Year: "2023_2024"
+      Name: [ "自动化", "自动化（第二学位）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大四"
+      Semester: "秋"
+  CourseType: "限选"
+  CourseID: "AUTO5024"
+  CourseName: "模式识别"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "上机实验"
+      Percentage: "40"
+    - Name: "期末考试"
+      Percentage: "60"
+  CourseHourComposition:
+    - Name: "授课"
+      Hour: "24"
+    - Name: "实验"
+      Hour: "8"
+
+  Major:
+    - Year: "2024_2025"
+      Name: [ "自动化（第二学士学位）", "自动化" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大二"
+      Semester: "秋"
+  CourseType: "限选"
+  CourseID: "AUTO5024"
+  CourseName: "模式识别"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "上机实验"
+      Percentage: "40"
+    - Name: "期末考试"
+      Percentage: "60"
+  CourseHourComposition:
+    - Name: "授课"
+      Hour: "24"
+    - Name: "实验"
+      Hour: "8"
+
+  Major:
+    - Year: "2025_2026"
+      Name: [ "自动化" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大三"
+      Semester: "秋"
+  CourseType: "限选"
+  CourseID: "AUTO5024"
+  CourseName: "模式识别"
+  Credit: "2.0"
+  CourseHour: "32.0"
+  GPAInfluence: "GPA"
+  GroupCourse:
+    Link: ""
+    Desc: ""
+    Name: ""
+    Ids: ["", "", ""]
+  GradeComposition:
+    - Name: "上机实验"
+      Percentage: "40"
+    - Name: "期末考试"
+      Percentage: "60"
+  CourseHourComposition:
+    - Name: "授课"
+      Hour: "24"
+    - Name: "实验"
+      Hour: "8"
