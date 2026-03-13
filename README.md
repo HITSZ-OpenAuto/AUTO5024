@@ -8,6 +8,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 胡靓
 
 ## 教材与线上资源
