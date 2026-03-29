@@ -11,13 +11,19 @@
 <!-- TOML-LECTURERS: part="items" -->
 - 胡靓
 
-## 教材与线上资源
-<!-- TOML-SECTION: title="教材与线上资源" -->
+## 教材和参考书
+<!-- TOML-SECTION: title="教材和参考书" -->
 
-<!-- TOML-ITEM: id="item-教材与线上资源-1" -->
+<!-- TOML-ITEM: id="item-教材和参考书-1" -->
 
 - **模式分类**（Richard Duda 等 / 机械工业出版社 / 第 2 版 / textbook）
 - **模式识别**（张学工 / 汪小我 / 清华大学出版社 / 第四版 / textbook）
+
+## 网络资源
+<!-- TOML-SECTION: title="网络资源" -->
+
+<!-- TOML-ITEM: id="item-网络资源-1" -->
+
 - [《神经网络与深度学习》书籍主页](https://nndl.github.io/)：邱锡鹏 著，机械工业出版社，2019
 - [《动手学深度学习：Pytorch 版》书籍主页](https://zh.d2l.ai/)：第二版
 - [CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/)：非常经典的课程，讲解的内容更加深入、全面、容易理解。
@@ -44,7 +50,7 @@
 
 本课程重实践，要求同学们具备编程解决模式识别相关问题的能力。因此，本课程考试难度不高（此处有待往届学生补充真实体会），没有考勤（2023 年秋情况），但是实验一定要去（证明你确实掌握了）。
 
-> 文 / [Hye](https://github.com/Co-ding-Man)，2025-01
+> 文 / [Hye](https://github.com/Co-ding-Man)，2024-07
 
 <!-- TOML-ITEM: id="item-学习建议-2" -->
 
@@ -54,6 +60,6 @@
 
 后半部分的神经网络部分个人推荐学有余力的同学去学习 [CS231n](https://cs231n.stanford.edu/)，这是一门非常经典的课程，讲解的内容更加深入、全面、容易理解。若有需要可以参考我整理的 [CS231n 学习笔记](https://github.com/pspdada/LLM-Learning-Notes)。
 
-实验部分建议大家认真完成，不仅是因为实验所占课程的分值比重高，更是因为**代码能力**是现代大学生必备的技能之一，而实验的内容：通过 pytorch 库搭建神经网络，也是一个很好的毫不过时的练习机会。
+实验部分建议大家认真完成，不仅是因为实验所占课程的分值比重高，更是因为 **代码能力** 是现代大学生必备的技能之一，而实验的内容：通过 pytorch 库搭建神经网络，也是一个很好的毫不过时的练习机会。
 
 > 文 / [psp_dada](https://github.com/pspdada)，2024-12
