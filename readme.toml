@@ -8,12 +8,19 @@ repo_type = "normal"
 name = "胡靓"
 
 [[sections]]
-title = "教材与线上资源"
+title = "教材和参考书"
 
 [[sections.items]]
 content = """
 - **模式分类**（Richard Duda 等 / 机械工业出版社 / 第 2 版 / textbook）
 - **模式识别**（张学工 / 汪小我 / 清华大学出版社 / 第四版 / textbook）
+"""
+
+[[sections]]
+title = "网络资源"
+
+[[sections.items]]
+content = """
 - [《神经网络与深度学习》书籍主页](https://nndl.github.io/)：邱锡鹏 著，机械工业出版社，2019
 - [《动手学深度学习：Pytorch 版》书籍主页](https://zh.d2l.ai/)：第二版
 - [CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/)：非常经典的课程，讲解的内容更加深入、全面、容易理解。
@@ -37,7 +44,7 @@ title = "学习建议"
 
 [[sections.items]]
 content = "本课程重实践，要求同学们具备编程解决模式识别相关问题的能力。因此，本课程考试难度不高（此处有待往届学生补充真实体会），没有考勤（2023 年秋情况），但是实验一定要去（证明你确实掌握了）。"
-author = { name = "Hye", link = "https://github.com/Co-ding-Man", date = "2025-01" }
+author = { name = "Hye", link = "https://github.com/Co-ding-Man", date = "2024-07" }
 
 [[sections.items]]
 content = """
