@@ -1,0 +1,87 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814338,
+    "hash": "451925b678b3fc60b5fcf5655fd69207d8e4947a"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1721534606,
+    "hash": "8fe30d889ba1d11e9dde0d6b98d3d84b44cd3de8"
+  },
+  "README.md": {
+    "size": 3418,
+    "time": 1791961361,
+    "hash": "279d3e0ce149a66c770ceb82f9cacc34307d43c0"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737627029,
+    "hash": "8af822af7eef43247bb75ffb797748e0ea299ecd"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1737627029,
+    "hash": "8af822af7eef43247bb75ffb797748e0ea299ecd"
+  },
+  "exams/2025模式识别试题回忆版.pdf": {
+    "size": 319114,
+    "time": 1764496927,
+    "hash": "55189e66803953458c213325adf7ee7437460351"
+  },
+  "labs/2023-zyc/200320708-朱颖聪-实验2.pdf": {
+    "size": 885171,
+    "time": 1734768988,
+    "hash": "48491be5e6ffe54c29aa74bcdea13ac155d8e222"
+  },
+  "labs/2023-zyc/200320708-朱颖聪-实验3.pdf": {
+    "size": 906834,
+    "time": 1734768988,
+    "hash": "48491be5e6ffe54c29aa74bcdea13ac155d8e222"
+  },
+  "labs/2024/psp/README.md": {
+    "size": 136,
+    "time": 1736784297,
+    "hash": "d69716d3aaef6f8ad6a843dc190f176a09a50f35"
+  },
+  "labs/2024/psp/实验2：字符识别实验-psp.docx": {
+    "size": 156987,
+    "time": 1736784297,
+    "hash": "d69716d3aaef6f8ad6a843dc190f176a09a50f35"
+  },
+  "labs/2024/psp/实验3：UNet气球识别实验-psp.docx": {
+    "size": 1954783,
+    "time": 1736784297,
+    "hash": "d69716d3aaef6f8ad6a843dc190f176a09a50f35"
+  },
+  "labs/README.md": {
+    "size": 395,
+    "time": 1721534606,
+    "hash": "8fe30d889ba1d11e9dde0d6b98d3d84b44cd3de8"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1737627029,
+    "hash": "8af822af7eef43247bb75ffb797748e0ea299ecd"
+  },
+  "notes/2023/2023-zyc-模式识别a4.pdf": {
+    "size": 6149458,
+    "time": 1735473118,
+    "hash": "b3293e693da76d00ff360e1fd7276dc38c0ff79e"
+  },
+  "notes/2024/模式识别考试A4纸2024.docx": {
+    "size": 5110234,
+    "time": 1735473118,
+    "hash": "b3293e693da76d00ff360e1fd7276dc38c0ff79e"
+  },
+  "readme.toml": {
+    "size": 3265,
+    "time": 1774865142,
+    "hash": "e7ca1474813b364a5f28b2e7c828585c68e049ad"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1737627029,
+    "hash": "8af822af7eef43247bb75ffb797748e0ea299ecd"
+  }
+}
